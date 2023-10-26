@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Digamber Singh</h1>
-<h3 align="center">An enlightened Full-stack developer from India.</h3>
+<h3 align="center">An enlightened Full-stack developer from Bharat.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhdigamber&label=Profile%20views&color=0e75b6&style=flat" alt="singhdigamber" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhdigamber" alt="singhdigamber" /></a> </p>
 
 - 🔭 I’m currently working on **Astronomical Analysis**
 
 - 🌱 I’m currently learning **Astrology, Sketch, Painting**
 
 - 👯 I’m looking to collaborate on [Blog](www.positronx.io)
+
+- 👨‍💻 All of my projects are available at [https://github.com/SinghDigamber](https://github.com/SinghDigamber)
 
 - 📝 I regularly write articles on [https://www.positronx.io](https://www.positronx.io)
 
@@ -23,6 +23,7 @@
 <p align="left">
 <a href="https://dev.to/singhdigamber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="singhdigamber" height="30" width="40" /></a>
 <a href="https://twitter.com/@digamber7753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@digamber7753" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucif1tgu8-tv0tfnos_rev8q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucif1tgu8-tv0tfnos_rev8q" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
