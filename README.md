@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **digamber@positronx.io**
 
-- ⚡ Fun fact **I can see your past and present through planetary movement.**
+- ⚡ Fun fact **I can see your past and future through planetary movement.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
