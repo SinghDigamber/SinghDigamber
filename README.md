@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Astronomical Analysis**
 
-- 🌱 I’m currently learning **Astrology, Sketch, Painting**
+- 🌱 I’m currently learning **Sketch, Painting**
 
 - 👯 I’m looking to collaborate on [Blog](www.positronx.io)
 
