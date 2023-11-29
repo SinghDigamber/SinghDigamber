@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Astronomical Analysis**
 
-- 🌱 I’m currently learning **Sketch, Painting**
+- 🌱 I’m currently learning **Fast Bowling, Sketch, Painting**
 
 - 👯 I’m looking to collaborate on [Blog](www.positronx.io)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **digamber@positronx.io**
 
-- ⚡ Fun fact **I can see your past and future through planetary movement.**
+- ⚡ Fun fact **I can bowl at the speed of @130kmph.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
