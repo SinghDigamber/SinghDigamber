@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://www.positronx.io/](https://www.positronx.io/)
 
-- 💬 Ask me about **Ask me about React, Angular, WordPress related stuff.**
+- 💬 Ask me about **React, Angular, WordPress related stuff.**
 
 - 📫 How to reach me **digamber@positronx.io**
 
