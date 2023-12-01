@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhdigamber&label=Profile%20views&color=0e75b6&style=flat" alt="singhdigamber" /> </p>
 
-- 🔭 I’m currently working on **WordPress Plugin Development**
+- 🔭 I’m currently working on **React and WordPress**
 
 - 🌱 I’m currently learning **Fast Bowling, Sketch**
 
