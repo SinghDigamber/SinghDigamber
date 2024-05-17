@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on **React and WordPress**
 
-- 🌱 I’m currently learning **Fast Bowling, Sketch**
 
 - 👯 I’m looking to collaborate on [Blog](www.positronx.io)
 
@@ -15,9 +14,7 @@
 
 - 💬 Ask me about **React, Angular, WordPress related stuff.**
 
-- 📫 How to reach me **digamber@positronx.io**
-
-- ⚡ Fun fact **I can bowl at the speed of @130kmph.**
+- 📫 How to reach me **digambersingh126@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
