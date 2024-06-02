@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Digamber Singh</h1>
-<h3 align="center">Someone who can create frontend and backend alone.</h3>
+<h3 align="center">One coder, two worlds: frontend flair, backend brilliance.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhdigamber&label=Profile%20views&color=0e75b6&style=flat" alt="singhdigamber" /> </p>
 
