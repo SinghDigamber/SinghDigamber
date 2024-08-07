@@ -4,16 +4,11 @@
 
 - 🔭 I’m currently working on **React and WordPress**
 
-
 - 👯 I’m looking to collaborate on [Blog](www.positronx.io)
 
 - 👨‍💻 All of my projects are available at [https://github.com/SinghDigamber](https://github.com/SinghDigamber)
 
-- 📝 I regularly write articles on [https://www.positronx.io/](https://www.positronx.io/)
-
-- 💬 Ask me about **React, Angular, WordPress related stuff.**
-
-- I created a simple tool that bidirectionally converts [pixels to REM](https://visualfrontend.com/tools/px-to-rem-converter/).
+- 💬 Ask me about **React, Angular, WordPress, Front-end related stuff.**
 
 - 📫 How to reach me **digambersingh126@gmail.com**
 
